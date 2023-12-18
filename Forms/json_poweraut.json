@@ -1,0 +1,11 @@
+{
+    "Termine": "@{body('Get_response_details')?['r6b9fa6ffee644ee8b6fa5489c7d37699']}",
+    "E-Mail": "@{body('Get_response_details')?['r55510657f87640ef9cb86421a43068cf']}",
+    "Name_Vorname": "@{body('Get_response_details')?['r316b5fed8579480a94b6ab71b8909cb9']}",
+    "Schulstufe": "@{body('Get_response_details')?['r288dbf44f06748eeab484f1c3c46626d']}",
+    "Geschlecht": "@{body('Get_response_details')?['rccb25e5ee08f409aa3279efb1929e720']}",
+    "Notfall_Kontakt_Name": "@{body('Get_response_details')?['r303fe6bbdf374116b2315b7ee1315ed3']}",
+    "Notfall_Kontakt_Telefon": "@{body('Get_response_details')?['r546bcdd457724771ad358e6455009b8d']}",
+    "Einverstaendniserklaerung": "@{body('Get_response_details')?['rfaf733af56d64baeacf7f1aca3a0fbd8']}",
+    "Bemerkungen": "@{body('Get_response_details')?['raf1f51afc68a475796f231715e9b87ec']}"
+}
